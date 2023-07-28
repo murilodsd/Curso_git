@@ -1,4 +1,4 @@
-Hello2!
-Hello3!
-Hello5!
-Hello6!
+Fiz checkout para o primeir commit
+alterei o arquivo e commitei
+e dei checkout novamente para a master
+e alterei esses arquivo
