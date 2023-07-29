@@ -1,3 +1,4 @@
 Hello!
 vamos mudar e fazer um push novamente
 agora vamos fazer um push com -u
+agora vamos fazer apenas git push e ver se funciona sem informar remote e branch
